@@ -1,0 +1,15 @@
+#Perform bitwise operations with two inputs
+a=int(input())
+b=int(input())
+print(a&b)
+print(a&b)
+print(a|b)
+print(a^b)
+
+output:
+100
+10
+0
+0
+110
+110
